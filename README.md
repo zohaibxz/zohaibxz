@@ -8,9 +8,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-    <a href="mailto:zohaib2w2@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
     zohaib2w2@gmail.com
 </p>
 <p align="left">
