@@ -15,6 +15,11 @@
     +34 632 279 662
 </p>
 
+<h3 align="left">My CV:</h3>
+<p align="left">
+    📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Download my CV (PDF)</a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -48,7 +53,4 @@
         <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
     </a>
 </p>
-
-<h4 align="left">Link to the project ERP</h4>
-<a href="https://github.com/zohaibxz/Nothingan-Pri-S.A">Project ERP - GitHub</a>
 
