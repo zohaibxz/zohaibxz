@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Zohaib Zaib</h1>
-<h3 align="center">A passionate developer from Barcelona, Spain</h3>
+<h1 align="center">Hola 👋, soy Zohaib Zaib</h1>
+<h3 align="center">Un desarrollador apasionado de Barcelona, España</h3>
 
 <h3 align="left">Sobre mí:</h3>
 <p align="left">
     Estudiante de CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM), con formación previa en Mecatrónica Industrial y experiencia laboral. Interesado en desarrollar mis conocimientos de programación y tecnología dentro de un entorno profesional.
 </p>
 
-<h3 align="left">Contact with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
     <a href="mailto:zohaib2w2@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
@@ -22,10 +22,10 @@
 
 <h3 align="left">Mi CV:</h3>
 <p align="left">
-    📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Descarga mi CV (PDF)</a>
+    📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Descargar mi CV (PDF)</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
