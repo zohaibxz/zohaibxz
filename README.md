@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zohaib%20Zaib&fontSize=60&fontAlignY=40&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=62" alt="banner" width="100%"/>
+</p>
+
 <h1 align="center">Hola 👋, soy Zohaib Zaib</h1>
 <h3 align="center">Un desarrollador apasionado de Barcelona, España</h3>
 
@@ -57,3 +61,6 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" width="100%"/>
+</p>
