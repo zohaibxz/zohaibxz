@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zohaib Zaib</h1>
 <h3 align="center">A passionate developer from Barcelona, Spain</h3>
 
+<h3 align="left">Sobre mí:</h3>
+<p align="left">
+    Estudiante de CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM), con formación previa en Mecatrónica Industrial y experiencia laboral. Interesado en desarrollar mis conocimientos de programación y tecnología dentro de un entorno profesional.
+</p>
+
 <h3 align="left">Contact with me:</h3>
 <p align="left">
     <a href="mailto:zohaib2w2@gmail.com" target="_blank" rel="noreferrer">
@@ -15,9 +20,9 @@
     +34 632 279 662
 </p>
 
-<h3 align="left">My CV:</h3>
+<h3 align="left">Mi CV:</h3>
 <p align="left">
-    📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Download my CV (PDF)</a>
+    📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Descarga mi CV (PDF)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
