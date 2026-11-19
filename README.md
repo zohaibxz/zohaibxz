@@ -22,6 +22,10 @@
 <p align="left">
     📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Descargar mi CV (PDF)</a>
 </p>
+<h3 align="left">Mi proyecto Nothingan Pri S.A:</h3>
+<p align="left">
+    📄 <a href="https://github.com/zohaibxz/Nothingan-Pri-S.A" target="_blank" rel="noreferrer">Abrir</a>
+</p>
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <h4 align="left">💻 Lenguajes</h4>
