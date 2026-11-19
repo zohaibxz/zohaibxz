@@ -6,7 +6,7 @@
 <h3 align="center">Un desarrollador apasionado de Barcelona, España</h3>
 
 <p align="center">
-    <img src="foto.jpg" alt="Zohaib Zaib" width="180"/>
+    <img src="foto.png" alt="Zohaib Zaib" width="180"/>
 </p>
 
 <h3 align="left">Sobre mí:</h3>
