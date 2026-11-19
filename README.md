@@ -1,12 +1,19 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zohaib%20Zaib&fontSize=60&fontAlignY=40&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=62" alt="banner" width="100%"/>
 </p>
+
 <h1 align="center">Hola 👋, soy Zohaib Zaib</h1>
 <h3 align="center">Un desarrollador apasionado de Barcelona, España</h3>
+
+<p align="center">
+    <img src="foto.jpg" alt="Zohaib Zaib" width="180"/>
+</p>
+
 <h3 align="left">Sobre mí:</h3>
 <p align="left">
     Estudiante de CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM), con formación previa en Mecatrónica Industrial y experiencia laboral. Interesado en desarrollar mis conocimientos de programación y tecnología dentro de un entorno profesional.
 </p>
+
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
@@ -18,14 +25,17 @@
     </a>
     +34 632 279 662
 </p>
+
 <h3 align="left">Mi CV:</h3>
 <p align="left">
     📄 <a href="https://github.com/zohaibxz/zohaibxz/blob/main/CV-Zohaib-Zaib.pdf" target="_blank" rel="noreferrer">Descargar mi CV (PDF)</a>
 </p>
+
 <h3 align="left">Mi proyecto Nothingan Pri S.A:</h3>
 <p align="left">
     📄 <a href="https://github.com/zohaibxz/Nothingan-Pri-S.A" target="_blank" rel="noreferrer">Nothingan Pri S.A</a>
 </p>
+
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <h4 align="left">💻 Lenguajes</h4>
@@ -76,6 +86,7 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
+
 <h4 align="left">🔄 Control de versiones y gestión de proyectos</h4>
 <p align="left">
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
@@ -100,7 +111,11 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     </a>
-     <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
     </a>
+</p>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" width="100%"/>
 </p>
