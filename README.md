@@ -24,7 +24,7 @@
 </p>
 <h3 align="left">Mi proyecto Nothingan Pri S.A:</h3>
 <p align="left">
-    📄 <a href="https://github.com/zohaibxz/Nothingan-Pri-S.A" target="_blank" rel="noreferrer">Abrir</a>
+    📄 <a href="https://github.com/zohaibxz/Nothingan-Pri-S.A" target="_blank" rel="noreferrer">Nothingan Pri S.A</a>
 </p>
 <h3 align="left">Lenguajes y herramientas:</h3>
 
