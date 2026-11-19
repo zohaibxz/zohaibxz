@@ -72,17 +72,6 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
-
-<h4 align="left">🧰 Herramientas de bases de datos</h4>
-<p align="left">
-    <a href="https://www.mongodb.com/products/tools/compass" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb-compass" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql-workbench" width="40" height="40"/>
-    </a>
-</p>
-
 <h4 align="left">🔄 Control de versiones y gestión de proyectos</h4>
 <p align="left">
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
